@@ -1,0 +1,5 @@
+string firstName = "Bob";
+string greeting = "Hi";
+string message = greeting + " " + firstName + "!";
+Console.WriteLine(message);
+lesson 4
