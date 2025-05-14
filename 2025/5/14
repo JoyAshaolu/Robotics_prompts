@@ -1,0 +1,36 @@
+adding = 4 + 3
+print(adding)
+
+subtracting = 1000 - 11
+print(subtracting)
+
+multiplication = 10 * 32
+print(multiplication)
+
+division = 50 / 10
+print (division)
+
+# a number raised to the power of some number 
+# in this example we raised 5 to the power of 2
+squared = 5 ** 2
+print(squared)
+
+# remainder of division
+modulo = 15 % 4
+print(modulo)
+
+#whole number division
+divisor = 15 // 2
+print(divisor)
+
+multiplication = 3.4 * 6.8
+print(multiplication)
+
+division = 2467 / 4673
+print(division)
+
+square = 10 ** 2
+print(square)
+
+remainder = 343 // 100
+print(remainder)
